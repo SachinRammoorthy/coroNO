@@ -1,6 +1,6 @@
 {
   "name": "covid",
-  "homepage": "http://www.sachinr.me/coronoClone/",
+  "homepage": "http://www.sachinr.me/corono/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
